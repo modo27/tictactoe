@@ -1,0 +1,17 @@
+{
+  "name": "TicTacToe",
+  "displayName": "TicTacToe",
+  "expo": {
+    "name": "TicTacToe",
+    "slug": "TicTacToe",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
